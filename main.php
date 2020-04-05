@@ -211,4 +211,3 @@ echo <<<EOF
 </html>
 EOF;
 
-?>

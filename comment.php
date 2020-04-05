@@ -58,5 +58,5 @@ echo <<<EOF
 <script language=javascript>window.location.href = "echo_article.php?id=$article_id"</script>;
 EOF;
 
-?>
+
 

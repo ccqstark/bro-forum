@@ -77,4 +77,3 @@ EOF;
     echo '<script language=javascript>window.location.href="http://180.76.98.154/winter_camp/forum_login2.html"</script>';
 }
 
-?>

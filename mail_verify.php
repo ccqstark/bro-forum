@@ -31,4 +31,4 @@ EOF;
 
 unset($_SESSION['vercode']);
 
-?>
+
